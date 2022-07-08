@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm rosousa.
+
+- 🔭 I’m currently working on Front End project
+- 🌱 I’m currently learning React, Java.
+- 💬 Ask me about anything!
+- 😄 Pronouns: [he/him/his](https://pronoun.is/he)
+- 📫 How to reach me: [e-mail](mailto:rosous4@gmail.com)
+- ⚡ Fun fact: I'm a full-time daydreamer.
