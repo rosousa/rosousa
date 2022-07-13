@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm rosousa.
 
-- 🔭 I’m currently working on Front End project
-- 🌱 I’m currently learning React, Java.
+- 🔭 I’m currently working on Front-End projects
+- 🌱 I’m currently learning React and Java.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:rosous4@gmail.com)
