@@ -33,6 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-TypeScript-0079BF?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-6cc24a?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-23A9F2?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jest-99415B?style=flat-square&logo=Jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-37a171?style=flat-square&logo=mongodb&logoColor=white"/>
   </p>
