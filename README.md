@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **rosousa/rosousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+	<samp>
+		<br>:wave: Hey! I'm Rodolfo Sousa.
+		<br>I'm a Computer Science student.
+    <br>I’m currently working on Node and React projects.
+    <br>Fun fact: I'm a full-time daydreamer.
+		<br>This is where you'll find all my school related
+		<br>and personal projects.
+	</samp>
+</p>
