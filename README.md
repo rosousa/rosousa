@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 		<br>and personal projects.
 	</samp>
 </p>
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft"/>
     <img src="https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux"/>
